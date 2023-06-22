@@ -13,7 +13,7 @@ This project is a simulation of a planetary system using the Pygame library in P
 2. Install the required dependencies by running the following command:
 3. Run the simulation by executing the `Planet_sim.py` file
 
-##Presentation 
+## Presentation 
 
 https://github.com/AnujSonawane/Planet_Simulation_using_Python/assets/81616419/f322373e-6b7d-401c-ac07-cf1497d9bd75
 
